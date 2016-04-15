@@ -8,4 +8,4 @@ spring:
     config:
       server:
         git:
-          uri: file:/home/greg/workspace/experimental/build-microservices/config-repo
+          uri: https://github.com/gadams00/build-microservices-poc-config
